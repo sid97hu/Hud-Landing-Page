@@ -1,7 +1,7 @@
 # Hud-Landing-Page
 
 My Ateempt:
-
+https://sid97hu.github.io/Hud-Landing-Page/.
 
 FrontEnd Website:
 https://www.frontendmentor.io/challenges/huddle-landing-page-462616
